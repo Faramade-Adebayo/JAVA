@@ -1,3 +1,4 @@
+package L10;
 import java.util.Scanner;
 public class nov8 {
     public static Employee getEmployeeDetails(){
